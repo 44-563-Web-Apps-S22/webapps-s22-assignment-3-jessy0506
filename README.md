@@ -7,3 +7,4 @@ Assignment 3 - Basic HTML
     
 </p>
 
+![INDEX PAGE](https://44-563-web-apps-s22.github.io/webapps-s22-assignment-3-jessy0506/)
